@@ -1,0 +1,5 @@
+package gopkg
+
+func main() {
+
+}

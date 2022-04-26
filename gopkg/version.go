@@ -1,5 +1,3 @@
 package gopkg
 
-func main() {
-
-}
+const VERSION = 2.0
